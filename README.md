@@ -1,2 +1,2 @@
 # nokia3310
-nokia 3310 LCD Driver for PIC
+Driver para PIC do LCD Nokia 3310, muito utilizado por entusiastas de eletrônica autodidata e projetos pessoais.
